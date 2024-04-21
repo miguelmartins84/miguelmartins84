@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 iOS Developer
 -------------
 
-iOS Developer with more than 5 years experience
+iOS Developer with 6 years experience
 
 * 🌍  I'm based in Coimbra, Portugal
 * ✉️  You can contact me at [miguel.martins84@gmail.com](mailto:miguel.martins84@gmail.com)
